@@ -3,10 +3,10 @@ ID: sap-btp-sapui5
 description: A Fiori application.
 version: 0.0.1
 modules:
-- name: sap-btp-sapui5-dest-content
+- name: sap-btp-sapui5-dest-content-ERROR
   type: com.sap.application.content
   requires:
-  - name: sap-btp-sapui5-dest-srv
+  - name: sap-btp-sapui5-dest-srv-ERROR
     parameters:
       content-target: true
   - name: sap-btp-sapui5-repo-host
