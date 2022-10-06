@@ -44,10 +44,10 @@ modules:
     build-result: resources
     requires:
     - artifacts:
-      - sapbtpsapui5Takt.zip
-      name: sapbtpsapui5Takt
+      - sapbtpsapui5.zip
+      name: sapbtpsapui5
       target-path: resources/
-- name: sapbtpsapui5Takt
+- name: sapbtpsapui5
   type: html5
   path: .
   build-parameters:
