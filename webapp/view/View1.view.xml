@@ -7,7 +7,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<MessagePage showHeader="false" description="Welcome to the SAP BTP DevOPs!" text="Workshop @ DTS Integration: 18.04.2023!" icon="sap-icon://cloud"/>
+				<MessagePage showHeader="false" description="Welcome to the SAP BTP DevOps!" text="Biser Simeonov @SAP UI Web App: 03.07.2023!" icon="sap-icon://cloud"/>
 			</pages>
 		</App>
 	</Shell>
